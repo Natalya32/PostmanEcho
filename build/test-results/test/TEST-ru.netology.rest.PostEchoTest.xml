@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.rest.PostEchoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-12T20:42:08" hostname="DESKTOP-08S3RO4" time="7.819">
-  <properties/>
-  <testcase name="shouldReturnPost()" classname="ru.netology.rest.PostEchoTest" time="7.819"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
