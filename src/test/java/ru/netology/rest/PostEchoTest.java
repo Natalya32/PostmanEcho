@@ -20,7 +20,7 @@ class PostEchoTest {
         // Проверки
                 .then()
                 .statusCode(200)
-                .body("data", equalTo("Привет мир!!!"))
+                .body("data", equalTo("Привет мир!!"))
         ;
     }
 }
